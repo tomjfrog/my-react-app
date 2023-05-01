@@ -1,0 +1,5 @@
+/node_modules/
+/.idea/
+/my-react-app.iml
+/build/
+.npmrc

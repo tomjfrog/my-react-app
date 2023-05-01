@@ -1,0 +1,6 @@
+projectPrefix: myreactapp
+myRepo:
+  gitProvider: Github_tomjfrog
+  artifactory: tomjfrog_jfrog_io
+  path: tomjfrog/my-react-app
+  virtualRepo: myreactapp-npm-dev-virtual
